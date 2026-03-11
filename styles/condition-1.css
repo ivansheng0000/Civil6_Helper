@@ -1,0 +1,32 @@
+.condition-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.number-box {
+  display: inline-flex;
+  flex-direction: column;
+  width: 60px;
+}
+.number-box p {
+  text-align: center;
+}
+.number-box input {
+  text-align: center;
+  font-size: 18px;
+}
+
+.number-box button {
+  cursor: pointer;
+}
+
+.greater-equal {
+  width: 60px;
+}
+
+.greater-equal p {
+  text-align: center;
+  margin-top: 70px;
+  font-size: 20px;
+}
+
